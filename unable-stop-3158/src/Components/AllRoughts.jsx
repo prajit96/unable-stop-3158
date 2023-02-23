@@ -8,7 +8,7 @@ import Home from '../Pages/Home'
 
 const AllRoughts = () => {
   return <Routes>
-    {/* <Route path='/' element={<Home/>}></Route> */}
+    <Route path='/' element={<Home/>}></Route>
     <Route path='/women' element={<Women/>}></Route>
     <Route path='/men' element={<Men/>}></Route>
     <Route path='/child' element={<Child/>}></Route>
