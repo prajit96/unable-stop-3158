@@ -13,7 +13,7 @@ const links=[
 const Navbar = () => {
   return (
     <>
-    <div>
+    <div style={{position:"relative"}}>
         
       <div className='nav__bar'>
         <div>

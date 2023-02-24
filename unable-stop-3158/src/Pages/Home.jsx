@@ -2,8 +2,8 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div>
-        <div style={{width:"100%",height:"80%",paddingTop:"100px"}}>
+    <div style={{position:"relative"}}>
+        <div style={{width:"100%",height:"80%",position:"-webkit-sticky"}}>
         <img src="https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/home-landing-web/Homepage-banner-Ajio.jpg?w=1440&dpr=1.3" width={"100%"} alt="" />
         
     </div>
