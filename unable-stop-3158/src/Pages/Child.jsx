@@ -38,8 +38,6 @@ const Child = () => {
         <SwiperSlide>
             <img src="https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/banner-images/Homepage--Banner-kidwear_1.jpg?format=webp&w=1440&dpr=1.3" alt="img3" />
         </SwiperSlide>
-        
-     
       </Swiper>
       <div style={{fontSize:"27px",fontWeight:"700",fontFamily:"sans-serif",textAlign:"center",paddingTop:"25px",paddingBottom:"25px",color:"#282C3F"}}>
         <h1>COLLECTIONS</h1>
