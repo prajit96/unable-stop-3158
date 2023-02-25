@@ -184,7 +184,6 @@ const Women = () => {
               <p style={{marginTop:"15px",marginBottom:"10px"}}>Sitemap</p>
               </div>
             </div>
-            
           </div>
           <div>
             <p style={{fontSize:"20px",fontWeight:"700",color:"#58595B",fontFamily:"sans-serif",textAlign:"center",paddingTop:"15px"}}>EXPERIENCE THE SOULED STORE APP</p>
